@@ -1,15 +1,15 @@
-[submodule "crewAI"]
-	path = crewAI
-	url = https://github.com/rennyoure-hash/crewAI.git
-[submodule "langgraph"]
-	path = langgraph
-	url = https://github.com/rennyoure-hash/langgraph.git
-[submodule "AutoGPT"]
-	path = AutoGPT
-	url = https://github.com/rennyoure-hash/AutoGPT.git
-[submodule "agno"]
-	path = agno
-	url = https://github.com/rennyoure-hash/agno.git
-[submodule "pydantic-ai"]
-	path = pydantic-ai
-	url = https://github.com/rennyoure-hash/pydantic-ai.git
+[submodule "oepn-crewai"]
+	path = oepn-crewai
+	url = https://github.com/rennyoure-hash/oepn-crewai.git
+[submodule "oepn-langgraph"]
+	path = oepn-langgraph
+	url = https://github.com/rennyoure-hash/oepn-langgraph.git
+[submodule "oepn-autogpt"]
+	path = oepn-autogpt
+	url = https://github.com/rennyoure-hash/oepn-autogpt.git
+[submodule "oepn-agno"]
+	path = oepn-agno
+	url = https://github.com/rennyoure-hash/oepn-agno.git
+[submodule "oepn-pydantic-ai"]
+	path = oepn-pydantic-ai
+	url = https://github.com/rennyoure-hash/oepn-pydantic-ai.git
